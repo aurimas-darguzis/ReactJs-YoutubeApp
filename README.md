@@ -1,3 +1,4 @@
 # ReactJs-YoutubeApp
 
-This project is going slowly but surely!!! :)
+What will happen - you will be able to search youtube clips on amazing input box from this project!
+
